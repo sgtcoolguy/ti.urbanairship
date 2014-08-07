@@ -1,0 +1,7 @@
+language: objective-c
+env:
+global:
+   - MODULE_NAME=urbanairship
+before_install:
+    - MODULE_ROOT=/Users/mdadu/documents/Git/ti.urbanairship
+install:
