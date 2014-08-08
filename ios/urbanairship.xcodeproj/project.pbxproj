@@ -843,8 +843,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)",
-					"\\\"$(SRCROOT)/Airship\\\"",
-					/Users/jenglish/titanium_modules/urbanairship/mobile/ios/Airship,
+					"\"$(SRCROOT)/Airship\"",
 				);
 				OTHER_CFLAGS = (
 					"-DDEBUG",
@@ -897,8 +896,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)",
-					"\\\"$(SRCROOT)/Airship\\\"",
-					/Users/jenglish/titanium_modules/urbanairship/mobile/ios/Airship,
+					"\"$(SRCROOT)/Airship\"",
 				);
 				OTHER_CFLAGS = "-DTI_POST_1_2";
 				OTHER_LDFLAGS = "-ObjC";
