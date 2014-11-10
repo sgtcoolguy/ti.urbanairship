@@ -1,5 +1,7 @@
 # Change Log
 <pre>
+v3.1.0  [TIMOB-17928] Updated to build for 64-bit
+
 v3.0.0  [TIMODOPEN-264] Upgraded to Urban Airship version 3.0.2 for iOS
         BREAKING CHANGE: The deprecated 'options' property has been removed -- airshipconfig.plist file is required now
         BREAKING CHANGE: airshipconfig.plist property names have changed
