@@ -4,6 +4,7 @@
 #
 version: 2.3.2
 apiversion: 2
+architectures: armeabi armeabi-v7a x86
 description: Urban Airship module for push notifications
 author: Jeff English
 license: Apache License, Version 2.0
