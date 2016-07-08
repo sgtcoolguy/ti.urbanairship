@@ -2,17 +2,17 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 2.3.2
-apiversion: 2
-architectures: armeabi armeabi-v7a x86
+version: 3.0.0
+apiversion: 3
+architectures: armeabi-v7a x86
 description: Urban Airship module for push notifications
 author: Jeff English
 license: Apache License, Version 2.0
-copyright: Copyright (c) 2010-2013 by Appcelerator, Inc.
+copyright: Copyright (c) 2010-2016 by Appcelerator, Inc.
 
 # these should not be edited
 name: urbanairship
 moduleid: ti.urbanairship
 guid: d00fbe22-e01d-4ca5-b11b-133155320625
 platform: android
-minsdk: 3.2.2.GA
+minsdk: 6.0.0
